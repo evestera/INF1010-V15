@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Legg ett sted som er i $PATH
+# F.eks. lag en mappe ~/bin/ som du legger i $PATH (se .bashrc)
+
+# Bruk:
+# jcr Foobar.java
+
+set -e
+
+echo "javac $1"
+javac $1
+echo "java $(basename ${1%.*} ${@:2})"
+java $(basename ${1%.*}) "${@:2}"
