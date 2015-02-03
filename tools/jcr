@@ -4,7 +4,7 @@
 # F.eks. lag en mappe ~/bin/ som du legger i $PATH (se .bashrc)
 
 # Bruk:
-# jcr Foobar.java
+# jcr Foobar.java argument1 argument2...
 
 set -e
 

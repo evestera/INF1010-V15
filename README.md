@@ -12,5 +12,5 @@
 cp $(/usr/libexec/java_home)/src.zip ~
 
 # På IFI-serverne, kopierer zipfila med kildekoden til hjemmemappa di:
-cp /snacks/encap/jdk-1.8.0.25+1/opt/jdk/src.zip ~
+cp /snacks/encap/jdk-1.8.0.31+1/opt/jdk/src.zip ~
 ```
