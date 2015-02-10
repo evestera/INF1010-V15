@@ -4,6 +4,11 @@
 - [Emne-sida](http://www.uio.no/studier/emner/matnat/ifi/INF1010/v15/)
 - [Java 8 API](http://docs.oracle.com/javase/8/docs/api/) (Men for å søke bruk Google: "java 8 *klassenavn*")
 
+# Hvordan kjøre javadoc
+
+```bash
+javadoc -d javadoc -linkoffline http://docs.oracle.com/javase/8/docs/api/ http://docs.oracle.com/javase/8/docs/api/ *.java
+```
 
 # Hvordan få en kopi av java-kildekoden
 
