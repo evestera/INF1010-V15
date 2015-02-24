@@ -1,3 +1,7 @@
+# Slides
+
+- [Exceptions / try-catch](https://slides.com/evestera/feilmeldinger-i-java)
+
 # Linker
 
 - [Facebook-gruppe](https://www.facebook.com/groups/770233566394868/)
