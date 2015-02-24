@@ -26,6 +26,9 @@ cp $(/usr/libexec/java_home)/src.zip ~
 cp /snacks/encap/jdk-1.8.0.31+1/opt/jdk/src.zip ~
 ```
 
-# Bok
+# Ikke pensum i det hele tatt...
 
-Josh Bloch - Effective Java
+- Bra bok av en av utviklerne av Java: Josh Bloch - Effective Java
+- [Processing](http://processing.org)
+- [Processing-intro](http://vestera.as/processing/)
+- [Kule animasjoner lagd med Processing](http://beesandbombs.tumblr.com/)
